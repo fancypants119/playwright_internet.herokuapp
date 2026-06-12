@@ -7,4 +7,3 @@ End-to-end test suite built with Playwright and TypeScript, with automated execu
 - Page Object Model (POM)
 - Custom Fixtures
 - .env file for test data 
-- 
